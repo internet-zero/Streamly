@@ -8,6 +8,7 @@ import time
 import json
 import requests
 import base64
+import pandas 
 
 
 from openai import OpenAI, OpenAIError
